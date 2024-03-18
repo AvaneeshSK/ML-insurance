@@ -4,7 +4,9 @@ kaggle : https://www.kaggle.com/datasets/awaiskaggler/insurance-csv
 
 predict prices (regression)  
 
-Models Used : CatBoostRegressor  
+Models Used : 
+
+              CatBoostRegressor  
               XGBRegressor  
               Lasso, ElasticNet, Ridge  
               SVR, NuSVR  
