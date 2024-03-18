@@ -1,11 +1,14 @@
 # ML-insurance.csv
 
-kaggle : https://www.kaggle.com/datasets/awaiskaggler/insurance-csv
+kaggle : https://www.kaggle.com/datasets/awaiskaggler/insurance-csv   
 
-Models Used : CatBoostRegressor
-              XGBRegressor
-              Lasso, ElasticNet, Ridge
-              SVR, NuSVR
-              RandomForestRegressor
+predict prices (regression)  
+
+Models Used : CatBoostRegressor  
+              XGBRegressor  
+              Lasso, ElasticNet, Ridge  
+              SVR, NuSVR  
+              RandomForestRegressor  
               
-compared all models, plotted the scores with patches and custom legend
+compared all models, plotted the scores with patches and custom legend  
+
